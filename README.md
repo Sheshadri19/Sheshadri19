@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sheshadri19
 - 👀 I’m interested in learning Programming languages 
-- 🌱 I’m currently learning react JS
+- 🌱 I’m Am a Certified MERN Stack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - through the email mondalsheshadri19@gmail.com
 - 😄 Pronouns: ...
